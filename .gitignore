@@ -6,6 +6,7 @@
 .DS_Store
 
 ## User settings
+*.xcuserdatad
 xcuserdata/
 
 ## Obj-C/Swift specific
@@ -33,6 +34,7 @@ playground.xcworkspace
 # .swiftpm
 
 .build/
+DerivedData/
 
 # CocoaPods
 #
