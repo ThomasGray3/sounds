@@ -1,13 +1,13 @@
 //
-//  soundsUITestsLaunchTests.swift
-//  soundsUITests
+//  SoundsUITestsLaunchTests.swift
+//  SoundsUITests
 //
-//  Created by Thomas Gray on 20/09/2025.
+//  Created by Thomas Gray on 21/09/2025.
 //
 
 import XCTest
 
-final class soundsUITestsLaunchTests: XCTestCase {
+final class SoundsUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

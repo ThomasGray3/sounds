@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		E34665A22E7F1AD100927D27 /* PBXContainerItemProxy */ = {
+		E34665FE2E7FF59900927D27 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = E346658B2E7F1AD100927D27 /* Project object */;
+			containerPortal = E34665E72E7FF59900927D27 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = E34665922E7F1AD100927D27;
-			remoteInfo = sounds;
+			remoteGlobalIDString = E34665EE2E7FF59900927D27;
+			remoteInfo = Sounds;
 		};
-		E34665AC2E7F1AD100927D27 /* PBXContainerItemProxy */ = {
+		E34666082E7FF59900927D27 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = E346658B2E7F1AD100927D27 /* Project object */;
+			containerPortal = E34665E72E7FF59900927D27 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = E34665922E7F1AD100927D27;
-			remoteInfo = sounds;
+			remoteGlobalIDString = E34665EE2E7FF59900927D27;
+			remoteInfo = Sounds;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E34665932E7F1AD100927D27 /* sounds.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sounds.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E34665A12E7F1AD100927D27 /* soundsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = soundsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		E34665AB2E7F1AD100927D27 /* soundsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = soundsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E34665EF2E7FF59900927D27 /* Sounds.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sounds.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E34665FD2E7FF59900927D27 /* SoundsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SoundsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E34666072E7FF59900927D27 /* SoundsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SoundsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		E34665952E7F1AD100927D27 /* sounds */ = {
+		E34665F12E7FF59900927D27 /* Sounds */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = sounds;
+			path = Sounds;
 			sourceTree = "<group>";
 		};
-		E34665A42E7F1AD100927D27 /* soundsTests */ = {
+		E34666002E7FF59900927D27 /* SoundsTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = soundsTests;
+			path = SoundsTests;
 			sourceTree = "<group>";
 		};
-		E34665AE2E7F1AD100927D27 /* soundsUITests */ = {
+		E346660A2E7FF59900927D27 /* SoundsUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = soundsUITests;
+			path = SoundsUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E34665902E7F1AD100927D27 /* Frameworks */ = {
+		E34665EC2E7FF59900927D27 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E346659E2E7F1AD100927D27 /* Frameworks */ = {
+		E34665FA2E7FF59900927D27 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E34665A82E7F1AD100927D27 /* Frameworks */ = {
+		E34666042E7FF59900927D27 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E346658A2E7F1AD100927D27 = {
+		E34665E62E7FF59900927D27 = {
 			isa = PBXGroup;
 			children = (
-				E34665952E7F1AD100927D27 /* sounds */,
-				E34665A42E7F1AD100927D27 /* soundsTests */,
-				E34665AE2E7F1AD100927D27 /* soundsUITests */,
-				E34665942E7F1AD100927D27 /* Products */,
+				E34665F12E7FF59900927D27 /* Sounds */,
+				E34666002E7FF59900927D27 /* SoundsTests */,
+				E346660A2E7FF59900927D27 /* SoundsUITests */,
+				E34665F02E7FF59900927D27 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E34665942E7F1AD100927D27 /* Products */ = {
+		E34665F02E7FF59900927D27 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E34665932E7F1AD100927D27 /* sounds.app */,
-				E34665A12E7F1AD100927D27 /* soundsTests.xctest */,
-				E34665AB2E7F1AD100927D27 /* soundsUITests.xctest */,
+				E34665EF2E7FF59900927D27 /* Sounds.app */,
+				E34665FD2E7FF59900927D27 /* SoundsTests.xctest */,
+				E34666072E7FF59900927D27 /* SoundsUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E34665922E7F1AD100927D27 /* sounds */ = {
+		E34665EE2E7FF59900927D27 /* Sounds */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E34665B52E7F1AD100927D27 /* Build configuration list for PBXNativeTarget "sounds" */;
+			buildConfigurationList = E34666112E7FF59900927D27 /* Build configuration list for PBXNativeTarget "Sounds" */;
 			buildPhases = (
-				E346658F2E7F1AD100927D27 /* Sources */,
-				E34665902E7F1AD100927D27 /* Frameworks */,
-				E34665912E7F1AD100927D27 /* Resources */,
+				E34665EB2E7FF59900927D27 /* Sources */,
+				E34665EC2E7FF59900927D27 /* Frameworks */,
+				E34665ED2E7FF59900927D27 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				E34665952E7F1AD100927D27 /* sounds */,
+				E34665F12E7FF59900927D27 /* Sounds */,
 			);
-			name = sounds;
+			name = Sounds;
 			packageProductDependencies = (
 			);
-			productName = sounds;
-			productReference = E34665932E7F1AD100927D27 /* sounds.app */;
+			productName = Sounds;
+			productReference = E34665EF2E7FF59900927D27 /* Sounds.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E34665A02E7F1AD100927D27 /* soundsTests */ = {
+		E34665FC2E7FF59900927D27 /* SoundsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E34665B82E7F1AD100927D27 /* Build configuration list for PBXNativeTarget "soundsTests" */;
+			buildConfigurationList = E34666142E7FF59900927D27 /* Build configuration list for PBXNativeTarget "SoundsTests" */;
 			buildPhases = (
-				E346659D2E7F1AD100927D27 /* Sources */,
-				E346659E2E7F1AD100927D27 /* Frameworks */,
-				E346659F2E7F1AD100927D27 /* Resources */,
+				E34665F92E7FF59900927D27 /* Sources */,
+				E34665FA2E7FF59900927D27 /* Frameworks */,
+				E34665FB2E7FF59900927D27 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				E34665A32E7F1AD100927D27 /* PBXTargetDependency */,
+				E34665FF2E7FF59900927D27 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				E34665A42E7F1AD100927D27 /* soundsTests */,
+				E34666002E7FF59900927D27 /* SoundsTests */,
 			);
-			name = soundsTests;
+			name = SoundsTests;
 			packageProductDependencies = (
 			);
-			productName = soundsTests;
-			productReference = E34665A12E7F1AD100927D27 /* soundsTests.xctest */;
+			productName = SoundsTests;
+			productReference = E34665FD2E7FF59900927D27 /* SoundsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		E34665AA2E7F1AD100927D27 /* soundsUITests */ = {
+		E34666062E7FF59900927D27 /* SoundsUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E34665BB2E7F1AD100927D27 /* Build configuration list for PBXNativeTarget "soundsUITests" */;
+			buildConfigurationList = E34666172E7FF59900927D27 /* Build configuration list for PBXNativeTarget "SoundsUITests" */;
 			buildPhases = (
-				E34665A72E7F1AD100927D27 /* Sources */,
-				E34665A82E7F1AD100927D27 /* Frameworks */,
-				E34665A92E7F1AD100927D27 /* Resources */,
+				E34666032E7FF59900927D27 /* Sources */,
+				E34666042E7FF59900927D27 /* Frameworks */,
+				E34666052E7FF59900927D27 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				E34665AD2E7F1AD100927D27 /* PBXTargetDependency */,
+				E34666092E7FF59900927D27 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				E34665AE2E7F1AD100927D27 /* soundsUITests */,
+				E346660A2E7FF59900927D27 /* SoundsUITests */,
 			);
-			name = soundsUITests;
+			name = SoundsUITests;
 			packageProductDependencies = (
 			);
-			productName = soundsUITests;
-			productReference = E34665AB2E7F1AD100927D27 /* soundsUITests.xctest */;
+			productName = SoundsUITests;
+			productReference = E34666072E7FF59900927D27 /* SoundsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E346658B2E7F1AD100927D27 /* Project object */ = {
+		E34665E72E7FF59900927D27 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					E34665922E7F1AD100927D27 = {
+					E34665EE2E7FF59900927D27 = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					E34665A02E7F1AD100927D27 = {
+					E34665FC2E7FF59900927D27 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = E34665922E7F1AD100927D27;
+						TestTargetID = E34665EE2E7FF59900927D27;
 					};
-					E34665AA2E7F1AD100927D27 = {
+					E34666062E7FF59900927D27 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = E34665922E7F1AD100927D27;
+						TestTargetID = E34665EE2E7FF59900927D27;
 					};
 				};
 			};
-			buildConfigurationList = E346658E2E7F1AD100927D27 /* Build configuration list for PBXProject "sounds" */;
+			buildConfigurationList = E34665EA2E7FF59900927D27 /* Build configuration list for PBXProject "Sounds" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = E346658A2E7F1AD100927D27;
+			mainGroup = E34665E62E7FF59900927D27;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = E34665942E7F1AD100927D27 /* Products */;
+			productRefGroup = E34665F02E7FF59900927D27 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E34665922E7F1AD100927D27 /* sounds */,
-				E34665A02E7F1AD100927D27 /* soundsTests */,
-				E34665AA2E7F1AD100927D27 /* soundsUITests */,
+				E34665EE2E7FF59900927D27 /* Sounds */,
+				E34665FC2E7FF59900927D27 /* SoundsTests */,
+				E34666062E7FF59900927D27 /* SoundsUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E34665912E7F1AD100927D27 /* Resources */ = {
+		E34665ED2E7FF59900927D27 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E346659F2E7F1AD100927D27 /* Resources */ = {
+		E34665FB2E7FF59900927D27 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E34665A92E7F1AD100927D27 /* Resources */ = {
+		E34666052E7FF59900927D27 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E346658F2E7F1AD100927D27 /* Sources */ = {
+		E34665EB2E7FF59900927D27 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E346659D2E7F1AD100927D27 /* Sources */ = {
+		E34665F92E7FF59900927D27 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E34665A72E7F1AD100927D27 /* Sources */ = {
+		E34666032E7FF59900927D27 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		E34665A32E7F1AD100927D27 /* PBXTargetDependency */ = {
+		E34665FF2E7FF59900927D27 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E34665922E7F1AD100927D27 /* sounds */;
-			targetProxy = E34665A22E7F1AD100927D27 /* PBXContainerItemProxy */;
+			target = E34665EE2E7FF59900927D27 /* Sounds */;
+			targetProxy = E34665FE2E7FF59900927D27 /* PBXContainerItemProxy */;
 		};
-		E34665AD2E7F1AD100927D27 /* PBXTargetDependency */ = {
+		E34666092E7FF59900927D27 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E34665922E7F1AD100927D27 /* sounds */;
-			targetProxy = E34665AC2E7F1AD100927D27 /* PBXContainerItemProxy */;
+			target = E34665EE2E7FF59900927D27 /* Sounds */;
+			targetProxy = E34666082E7FF59900927D27 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		E34665B32E7F1AD100927D27 /* Debug */ = {
+		E346660F2E7FF59900927D27 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -333,7 +333,7 @@
 			};
 			name = Debug;
 		};
-		E34665B42E7F1AD100927D27 /* Release */ = {
+		E34666102E7FF59900927D27 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -389,12 +389,12 @@
 			};
 			name = Release;
 		};
-		E34665B62E7F1AD100927D27 /* Debug */ = {
+		E34666122E7FF59900927D27 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = sounds/sounds.entitlements;
+				CODE_SIGN_ENTITLEMENTS = Sounds/Sounds.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
@@ -408,7 +408,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.tgray.sounds;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tgray.Sounds;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -416,12 +416,12 @@
 			};
 			name = Debug;
 		};
-		E34665B72E7F1AD100927D27 /* Release */ = {
+		E34666132E7FF59900927D27 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = sounds/sounds.entitlements;
+				CODE_SIGN_ENTITLEMENTS = Sounds/Sounds.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
@@ -435,7 +435,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.tgray.sounds;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tgray.Sounds;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -443,7 +443,7 @@
 			};
 			name = Release;
 		};
-		E34665B92E7F1AD100927D27 /* Debug */ = {
+		E34666152E7FF59900927D27 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -453,15 +453,15 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.tgray.soundsTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tgray.SoundsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/sounds.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/sounds";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sounds.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Sounds";
 			};
 			name = Debug;
 		};
-		E34665BA2E7F1AD100927D27 /* Release */ = {
+		E34666162E7FF59900927D27 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -471,15 +471,15 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.tgray.soundsTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tgray.SoundsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/sounds.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/sounds";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sounds.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Sounds";
 			};
 			name = Release;
 		};
-		E34665BC2E7F1AD100927D27 /* Debug */ = {
+		E34666182E7FF59900927D27 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -487,15 +487,15 @@
 				DEVELOPMENT_TEAM = QTL3ZJFVAP;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.tgray.soundsUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tgray.SoundsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = sounds;
+				TEST_TARGET_NAME = Sounds;
 			};
 			name = Debug;
 		};
-		E34665BD2E7F1AD100927D27 /* Release */ = {
+		E34666192E7FF59900927D27 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -503,54 +503,54 @@
 				DEVELOPMENT_TEAM = QTL3ZJFVAP;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.tgray.soundsUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tgray.SoundsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = sounds;
+				TEST_TARGET_NAME = Sounds;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E346658E2E7F1AD100927D27 /* Build configuration list for PBXProject "sounds" */ = {
+		E34665EA2E7FF59900927D27 /* Build configuration list for PBXProject "Sounds" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E34665B32E7F1AD100927D27 /* Debug */,
-				E34665B42E7F1AD100927D27 /* Release */,
+				E346660F2E7FF59900927D27 /* Debug */,
+				E34666102E7FF59900927D27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E34665B52E7F1AD100927D27 /* Build configuration list for PBXNativeTarget "sounds" */ = {
+		E34666112E7FF59900927D27 /* Build configuration list for PBXNativeTarget "Sounds" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E34665B62E7F1AD100927D27 /* Debug */,
-				E34665B72E7F1AD100927D27 /* Release */,
+				E34666122E7FF59900927D27 /* Debug */,
+				E34666132E7FF59900927D27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E34665B82E7F1AD100927D27 /* Build configuration list for PBXNativeTarget "soundsTests" */ = {
+		E34666142E7FF59900927D27 /* Build configuration list for PBXNativeTarget "SoundsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E34665B92E7F1AD100927D27 /* Debug */,
-				E34665BA2E7F1AD100927D27 /* Release */,
+				E34666152E7FF59900927D27 /* Debug */,
+				E34666162E7FF59900927D27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E34665BB2E7F1AD100927D27 /* Build configuration list for PBXNativeTarget "soundsUITests" */ = {
+		E34666172E7FF59900927D27 /* Build configuration list for PBXNativeTarget "SoundsUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E34665BC2E7F1AD100927D27 /* Debug */,
-				E34665BD2E7F1AD100927D27 /* Release */,
+				E34666182E7FF59900927D27 /* Debug */,
+				E34666192E7FF59900927D27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E346658B2E7F1AD100927D27 /* Project object */;
+	rootObject = E34665E72E7FF59900927D27 /* Project object */;
 }

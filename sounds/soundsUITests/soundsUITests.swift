@@ -1,13 +1,13 @@
 //
-//  soundsUITests.swift
-//  soundsUITests
+//  SoundsUITests.swift
+//  SoundsUITests
 //
-//  Created by Thomas Gray on 20/09/2025.
+//  Created by Thomas Gray on 21/09/2025.
 //
 
 import XCTest
 
-final class soundsUITests: XCTestCase {
+final class SoundsUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
